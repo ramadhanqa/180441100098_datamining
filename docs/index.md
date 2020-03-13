@@ -6,4 +6,4 @@
 
 ### PRODI	: SISTEM 
 
-![\site\assets\images\favicon.jpg]()
+![site\assets\images\favicon.png]()
