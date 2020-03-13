@@ -6,4 +6,4 @@
 
 ### PRODI	: SISTEM 
 
-<img src="../images/profil.jpg" style="zoom:25%;" />
+![site\assets\imagesfavicon.jpg]()
